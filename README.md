@@ -9,4 +9,5 @@ This repository contains comprehensive notes on the **_Git in Practice_** and _*
    Creating a new local Git repository, Committing files into a Git repository, Viewing the history of a Git repository and Viewing the differences between Git commits.Downloading a remote repository, Sending changes to and receiving changes from a remote repository, Creating and receiving branches and Merging commits from one branch to another
 2. ### [Git essentials](./GitEssentials.md)
    Filesystem interactions, History visualization, Advanced branching and Rewriting history and disaster recovery
-   
+3. ### [Advanced Git and Git best practices](./AdvancedGitAndGitBestPractices.md)
+   GitHub pull request and workflow to use for your project
