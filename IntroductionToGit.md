@@ -149,3 +149,7 @@ origin  https://github.com/Mohamed-Saber-97/Git-and-Github.git (push)
 
 * A short-running branch may be a single bug fix or feature that has been completed.
 * After using the `git push` we can use `git push --delete origin newBranch`
+
+  ## Tell Git to stop tracking changes to the file
+  * `git ls-files` show files that are tracked by git 
+  * `git update-index --assume-unchanged fileName`
